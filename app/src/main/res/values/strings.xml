@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Odev</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="error_network_notfound">You have no internet connection, try again!</string>
+    <string name="error_network_notfound_title">Connection Error</string>
+    <string name="action_settings">Settings</string>
+    <string name="last_price_mainmenu">BTC / $</string>
+    <string name="name_volume_mainmenu">Name / Vol</string>
+    <string name="h24_change_mainmenu">24h Change %</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
